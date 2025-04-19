@@ -1,4 +1,4 @@
-// Refer to the main.cpp file for the main function and the rest of the program.
+
 
 
 #ifndef PROG_H

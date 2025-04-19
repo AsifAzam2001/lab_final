@@ -31,7 +31,6 @@ double Calculator::divide(double a, double b)
 
 
 
-//Refer to the main.cpp file for the main function and the rest of the program.
 
 #include "Prog.h"
 
